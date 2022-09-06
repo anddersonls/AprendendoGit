@@ -1,5 +1,5 @@
 #Curso Git Repo
 
-![./imagem.png](imagem exemplo)
+![./imagem.png]
 
 Esse repositório serve de exemplo para o curso de Git e Github
